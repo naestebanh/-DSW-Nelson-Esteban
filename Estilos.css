@@ -1,0 +1,73 @@
+.titulo{
+    text-decoration: overline;
+    text-align: center;
+    color: rgb(247, 146, 15);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+.nave{
+
+    width: 1310px;
+    margin: 10px;
+    background-color: rgba(37, 30, 143, 0.952);
+}
+.nave ul{
+    list-style: none;
+}
+.menu > li{
+    position: relative;
+    display: inline-block;
+
+}
+.menu >li > a{
+    display: block;
+    padding: 15px 20px;
+    color: rgb(254, 255, 253);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none; 
+}
+.menu li a:hover {
+color: rgb(242, 245, 58);
+transition: all .3s;
+}
+.submenu{
+    position: absolute;
+    background: rgb(255, 252, 72);
+    width: 120%;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 1.5s;
+}
+.submenu li a{
+    display: block;
+    padding: 15px;
+    color: rgb(64, 49, 153);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.menu li:hover .submenu{
+visibility: visible;
+opacity: 1;
+}
+
+.a{
+    padding: 12px;
+    margin-left: 100px;
+  }
+.b{
+    margin-left: 220px;
+    padding: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+  .tabla{
+    
+        border: 1px solid black;
+    
+  }
+  .e{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       border: 1px solid black;
+    
+  }
