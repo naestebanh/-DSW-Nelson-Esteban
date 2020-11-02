@@ -1,3 +1,9 @@
+.todo{
+   background-color: rgb(212, 220, 235);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
 .titulo{
     text-decoration: overline;
     text-align: center;
@@ -71,3 +77,54 @@ opacity: 1;
        border: 1px solid black;
     
   }
+.d{
+
+    margin-left: 19cm;
+    text-align: center;
+    color: rgb(255, 145, 0);
+    
+}
+.q{
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* para conseptos 1 */
+
+.n{
+    margin-left: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.x{
+    color: rgb(255, 145, 0);
+    
+}
+.mar{
+    margin-left: 300px;
+}
+.sig{
+    background-color: rgba(37, 30, 143, 0.952);
+    color: whitesmoke;
+}
+ 
+/*para conseptos 2 */
+
+.cc{
+    margin-left: 50px;
+    margin-right: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+iframe{
+    width: 60%;
+    height: 140vh;
+    margin-left: 120px; 
+}
+.cd{
+    color: rgb(255, 145, 0);
+}
+
+embed{
+    width: 60%;
+    height: 140vh;
+    margin-left: 120px; 
+}
