@@ -97,7 +97,7 @@ opacity: 1;
 }
 .x{
     color: rgb(255, 145, 0);
-    
+    text-decoration: overline;
 }
 .mar{
     margin-left: 300px;
@@ -114,10 +114,11 @@ opacity: 1;
     margin-right: 70px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-iframe{
+
+.pdf{
     width: 60%;
     height: 140vh;
-    margin-left: 120px; 
+    margin-left: 120px;
 }
 .cd{
     color: rgb(255, 145, 0);
@@ -127,4 +128,40 @@ embed{
     width: 60%;
     height: 140vh;
     margin-left: 120px; 
+}
+
+/*recursos1*/
+.vv{
+    color: rgb(255, 145, 0);
+    margin-left: 12cm;
+    text-decoration: overline;
+}
+.video{
+    width: 60%;
+    height: 80vh;
+    margin-left: 120px;
+}
+.vvideo{
+    width: 60%;
+    height: 80vh;
+    margin-left: 120px;
+    
+}
+.ssse{
+    width: 80%;
+    height: 65vh;
+    margin-left: 50px;
+}
+.zx{
+    margin-left: 350px;
+}
+.f{
+    margin-left: 500px;
+}
+.ll{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.fd{
+    margin-left: 500px;
 }
